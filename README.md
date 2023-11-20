@@ -1,6 +1,18 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">A Passionate AI/ML Enthusiast, loves to code !!</h3>
 
+- 👯 I’m looking to collaborate on **Python based projects including high level Machine learning projects**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Vaibhav586?tab=repositories](https://github.com/Vaibhav586?tab=repositories)
+
+- 💬 Ask me about **Python, CPP, TensorFlow, UIUX**
+
+- 📫 How to reach me **vikashvaibhav584@gmail.com**
+
+- 📄 Know about my experiences [https://vaibhav586.github.io/Vaibhav.github.io/images/Vaibhav.pdf](https://vaibhav586.github.io/Vaibhav.github.io/images/Vaibhav.pdf)
+
+- ⚡ Fun fact **I think I am Funny! ^_^**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vaibhav586" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vaibhav586" height="30" width="40" /></a>
