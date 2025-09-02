@@ -47,7 +47,7 @@
 ## 📊 GitHub Highlights
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vaibhav586&show_icons=true&theme=gruvbox&hide_border=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vaibhav586&theme=gruvbox&hide_border=true" height="170" />
+  <img src="https://streak-stats.demolab.com?user=Vaibhav586&theme=gruvbox&hide_border=true" height="170" />
 </p>
 
 ---
