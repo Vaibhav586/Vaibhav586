@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
   Hey there, I'm <span style="color:#FF5733;">Vaibhav</span>!
 </h1>
 
@@ -46,15 +46,19 @@
 
 ## 📊 GitHub Highlights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vaibhav586&show_icons=true&theme=gruvbox&hide_border=true" height="170" />
-  <img src="https://streak-stats.demolab.com?user=Vaibhav586&theme=gruvbox&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vaibhav586&show_icons=true&theme=gruvbox&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vaibhav586&theme=gruvbox&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav586&layout=compact&theme=gruvbox&hide_border=true" height="150" />
 </p>
 
 ---
 
 ## 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vaibhav586&theme=gruvbox&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vaibhav586&theme=gruvbox&no-frame=true&row=1&column=6" />
 </p>
 
 ---
