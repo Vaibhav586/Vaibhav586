@@ -18,7 +18,7 @@
 - 🎨 **Beyond code:** I blend tech with creativity, game in free time & explore design ideas  
 
 📫 **Reach me at:** *vikashvaibhav584@gmail.com*  
-📄 **Portfolio:** [Check Here](https://vaibhav586.github.io/Vaibhav.github.io/images/Vaibhav.pdf)  
+📄 **Portfolio:** [Check Here](https://vaibhavvikash.me)  
 
 ---
 
